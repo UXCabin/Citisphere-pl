@@ -1,0 +1,62 @@
+.sidebar{
+	background-color: $bg-dark;
+	padding: 0 !important;
+	.logo-main{
+		text-align: center;
+		padding: 10px;
+	}
+	hr{
+		border-top: 1px solid $separator-top;
+		border-bottom: 1px solid $separator-bottom;
+	}
+}
+
+.nav-expand{
+	display: none;
+}
+
+.nav-main{
+	background-color: $bg-dark;
+	padding-bottom: 10px;
+	.nav-section-title{
+		color: $white-transparent;
+		text-transform: uppercase;
+		font-size: 16px;
+	}
+}
+.nav-item{
+	list-style: none;
+	padding: 10px;
+	a{
+		color: $link-light;
+		padding-left: 10px;
+		font-size: 16px;
+		vertical-align: middle;
+		&:hover{
+			text-decoration: none;
+			color: $link-light;
+		}
+	}
+	a.active{
+		color: $blue;
+	}
+}
+.activities{
+	.nav-item{
+		padding: 8px;
+	}
+	.nav-expand{
+		display: inline-block;
+		margin-top: -2px;
+	}
+	a{
+		font-size: 14px;
+	}
+	.nav-icon{
+		width: 15px;
+	}
+}
+
+.bottom-link{
+	padding-bottom: 10px;
+}

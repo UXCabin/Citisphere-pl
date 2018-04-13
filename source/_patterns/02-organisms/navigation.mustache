@@ -1,0 +1,13 @@
+<div class="sidebar col-md-3" id="sidebar">
+	<div class="logo-main">
+		<img src="/images/logo.svg" />
+	</div>
+	{{> molecules-navmain}}
+	{{> molecules-navactivities}}
+	{{> molecules-navbottom}}
+	<div class="bottom-link">
+		<ul>
+			{{> atoms-navitem(navicon: "quicklinks", navlink: "http://link.com", navtext: "Quicklinks")}}
+		</ul>
+	</div>
+</div>

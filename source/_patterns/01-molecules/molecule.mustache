@@ -1,7 +1,11 @@
 <div class="{{class}}">
-	
-	{{> atoms-button(class: "btn btn-primary") }}
-	{{> atoms-button(class: "btn btn-secondary") }}
-	{{> atoms-button(class: "btn btn-primary") }}
+
+	{{> atoms-button(modifier: "btn-action", text: "button action") }}
+	{{> atoms-button(modifier: "btn-primary", text: "button primary") }}
+	{{> atoms-button(modifier: "btn-secondary", text: "button secondary") }}
+	{{> atoms-button(modifier: "btn-disabled", text: "button disabled") }}
+	{{> atoms-button(modifier: "btn-link save", text: "button link") }}
+
+	{{> atoms-navitem(navicon: "Dashboard", navlink: "http://link.com", navtext: "navigation item")}}
 
 </div>

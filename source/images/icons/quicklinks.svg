@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>nav/icon/inactive/quicklinks</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="nav/icon/inactive/quicklinks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18,14.9338698 L18,21.7336884 C18,22.3339878 17.7609417,22.9109637 17.3359541,23.3359524 C16.9109666,23.760941 16.3340489,24 15.7336945,24 L3.26626019,24 C2.01464357,24 1,22.9853424 1,21.7337338 L1,9.26626623 C1,8.01464628 2.0146549,7 3.26626019,7 L10.0660607,7" id="Stroke-1" stroke="#CCD8E1" stroke-width="2.54400025"></path>
+        <polyline id="Stroke-2" stroke="#CCD8E1" stroke-width="2.54400025" points="16 3 22 3 22 9"></polyline>
+        <path d="M9,16 L22,3" id="Stroke-3" stroke="#CCD8E1" stroke-width="2.54400025"></path>
+    </g>
+</svg>
